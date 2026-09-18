@@ -1,1 +1,22 @@
-
+{
+  "id": 1,
+  "active": false,
+  "translations": {
+    "en": {
+      "title": "Welcome!",
+      "message": "This is a remote announcement."
+    },
+    "pt-BR": {
+      "title": "",
+      "message": ""
+    },
+    "es": {
+      "title": "",
+      "message": ""
+    }
+  },
+  "image": {
+    "enabled": false,
+    "url": ""
+  }
+}
