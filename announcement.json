@@ -3,16 +3,16 @@
   "active": true,
   "translations": {
     "en": {
-      "title": "Hello",
-      "message": "The NPC detection system has finally been improved!\nI'm working hard on Lethal Love, so look forward to lots of cool stuff in upcoming updates!\nIf you come across any bugs, please report them via Discord!\nThanks for playing <3"
+      "title": "New Update - 30.1.0",
+      "message": "In this update, the NPC reaction system has finally been improved!\n\nTwo subscription options have also been added; you earn diamonds every time your subscription renews!\n\nWith the Lethal Pass Plus, you can also play ad-free!\n\nI also took the opportunity to add a new system that allows me to send you messages! Whenever there is a new message, this pop-up will appear when you open the game :D\n\nThanks for playing Lethal Love!"
     },
     "ptBR": {
-      "title": "Olá",
-      "message": "O sistema de detecção de NPCs finalmente foi aprimorado!\nEstou trabalhando duro no Lethal Love, então aguardem muitas novidades legais nas próximas atualizações!\nSe encontrar algum bug, por favor, relate pelo Discord!\nObrigado por jogar <3"
+      "title": "Nova Atualização – 30.1.0",
+      "message": "Nesta atualização, o sistema de reação dos NPCs foi finalmente aprimorado!\n\nTambém foram adicionadas duas opções de assinatura; você ganha diamantes toda vez que sua assinatura é renovada!\n\nCom o Lethal Pass Plus, você também pode jogar sem anúncios!\n\nTambém aproveitei para adicionar um novo sistema que me permite enviar mensagens para você! Sempre que houver uma nova mensagem, este pop-up aparecerá ao abrir o jogo :D\n\nObrigado por jogar Lethal Love!"
     },
     "es": {
-      "title": "Hola",
-      "message": "¡Por fin se ha mejorado el sistema de detección de los NPC!\nEstoy trabajando duro en Lethal Love, ¡así que esperad muchas novedades geniales en las próximas actualizaciones!\nSi encontráis algún error, ¡por favor informad de ello a través de Discord!\nGracias por jugar <3"
+      "title": "Nueva Actualización - 30.1.0",
+      "message": "¡En esta actualización, por fin se ha mejorado el sistema de reacción de los NPC!\n\nTambién se han añadido dos opciones de suscripción; ¡ganas diamantes cada vez que se renueva tu suscripción!\n\n¡Con el Lethal Pass Plus, también puedes jugar sin anuncios!\n\n¡Además, he aprovechado para añadir un nuevo sistema que me permite enviarte mensajes! Cuando haya un mensaje nuevo, aparecerá una ventana emergente al abrir el juego :D\n\n¡Gracias por jugar a Lethal Love!"
     }
   },
   "image": {
