@@ -1,18 +1,18 @@
 {
-  "id": 1,
+  "id": 2,
   "active": true,
   "translations": {
     "en": {
-      "title": "New Update 30.1.0",
-      "message": "In this update, the NPC reaction system has finally been improved!\n\nTwo subscription options have also been added; you earn diamonds every time your subscription renews!\n\nWith the Lethal Pass Plus, you can also play ad-free!\n\nI also took the opportunity to add a new system that allows me to send you messages! Whenever there is a new message, this pop-up will appear when you open the game :D\n\nThanks for playing Lethal Love!"
+      "title": "Lethal Love on Steam",
+      "message": "Lethal Love will officially launch on PC in December! I’m working hard to ensure a smooth launch. \n\nYou can already add Lethal Love to your Steam Wishlist! \n\nAdding Lethal Love to your Steam Wishlist really helps boost its visibility on the platform, and I’d be super happy if you did! \n\nI’m already working on a new update for Lethal Love that includes a really cool new feature! Thanks for playing!"
     },
     "ptBR": {
-      "title": "Nova Atualização 30.1.0",
-      "message": "Nesta atualização, o sistema de reação dos NPCs foi finalmente aprimorado!\n\nTambém foram adicionadas duas opções de assinatura; você ganha diamantes toda vez que sua assinatura é renovada!\n\nCom o Lethal Pass Plus, você também pode jogar sem anúncios!\n\nTambém aproveitei para adicionar um novo sistema que me permite enviar mensagens para você! Sempre que houver uma nova mensagem, este pop-up aparecerá ao abrir o jogo :D\n\nObrigado por jogar Lethal Love!"
+      "title": "Lethal Love na Steam",
+      "message": "Lethal Love será lançado oficialmente para PC em dezembro! Estou trabalhando duro para garantir um lançamento tranquilo. \n\nVocê já pode adicionar Lethal Love à sua Lista de Desejos do Steam! \n\nAdicionar Lethal Love à sua Lista de Desejos do Steam ajuda muito a aumentar a visibilidade do jogo na plataforma, e eu ficaria muito feliz se você fizesse isso! \n\nJá estou trabalhando em uma nova atualização para Lethal Love que inclui um recurso muito legal! Obrigado por jogar!"
     },
     "es": {
-      "title": "Nueva Actualización 30.1.0",
-      "message": "¡En esta actualización, por fin se ha mejorado el sistema de reacción de los NPC!\n\nTambién se han añadido dos opciones de suscripción; ¡ganas diamantes cada vez que se renueva tu suscripción!\n\n¡Con el Lethal Pass Plus, también puedes jugar sin anuncios!\n\n¡Además, he aprovechado para añadir un nuevo sistema que me permite enviarte mensajes! Cuando haya un mensaje nuevo, aparecerá una ventana emergente al abrir el juego :D\n\n¡Gracias por jugar a Lethal Love!"
+      "title": "Lethal Love en Steam",
+      "message": "¡Lethal Love se lanzará oficialmente en PC en diciembre! Estoy trabajando duro para asegurar un lanzamiento sin contratiempos. \n\n¡Ya puedes añadir Lethal Love a tu lista de deseados de Steam! \n\nAñadir Lethal Love a tu lista de deseados de Steam ayuda mucho a aumentar su visibilidad en la plataforma, ¡y me haría muchísima ilusión que lo hicieras! \n\n¡Ya estoy trabajando en una nueva actualización para Lethal Love que incluye una función nueva genial! ¡Gracias por jugar!"
     }
   },
   "image": {
